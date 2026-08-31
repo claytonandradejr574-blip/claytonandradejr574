@@ -369,12 +369,17 @@ Conhecimento
 
 # `> CONTRIBUTION.PROTOCOL`
 
+# `> CONTRIBUTION.PROTOCOL`
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img
+  src="https://raw.githubusercontent.com/claytonandradejr574-blip/claytonandradejr574/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="Snake Contribution Animation"
+/>
 
 </div>
-
 ---
 
 # `> CONNECT`
