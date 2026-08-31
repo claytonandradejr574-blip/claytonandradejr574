@@ -335,7 +335,7 @@ Conhecimento
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?suser=claytonandradejr574&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=claytonandradejr574&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -346,16 +346,18 @@ Conhecimento
 <div align="center">
 ## > DEVELOPER.MODE
 
+<div align="center">
+
+## > DEVELOPER.MODE
+
 ```text
-STATUS   : ONLINE
-MINDSET  : BUILDING
-MISSION  : SOLVE PROBLEMS
-PROCESS  : CODE → TEST → LEARN → IMPROVE
+STATUS     : ONLINE
+MINDSET    : BUILDING
+MISSION    : SOLVE PROBLEMS
+PROCESS    : CODE → TEST → LEARN → IMPROVE
 
 ´´´s
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=claytonandradejr574![Uploading image.png…]()
-=tokyo-night&hide_border=true&area=true" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=claytonandradejr574&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 ---
