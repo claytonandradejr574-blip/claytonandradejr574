@@ -44,7 +44,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 CLAYTON: Eu transformo lógica em código e código em resultado. 💻🔥
+###  CLAYTON: Eu transformo lógica em código e código em resultado. 
 
 *  Desenvolvimento de Software
 *  Back-End
@@ -55,7 +55,7 @@
 *  Desenvolvimento Web
 *  Solução de problemas
 
-Atualmente estou focado em fortalecer minha lógica de programação, desenvolver projetos e adquirir experiência profissional na área de TI.
+
 
 </td>
 
@@ -94,7 +94,7 @@ developer:
 
 <div align="center">
 
-### 🧠 Linguagens & Tecnologias
+###  Linguagens & Tecnologias
 
 <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,postgresql,git,github,vscode&perline=5" />
 
