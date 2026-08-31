@@ -344,6 +344,14 @@ Conhecimento
 # `> ACTIVITY.MONITOR`
 
 <div align="center">
+## > DEVELOPER.MODE
+
+```text
+STATUS   : ONLINE
+MINDSET  : BUILDING
+MISSION  : SOLVE PROBLEMS
+PROCESS  : CODE → TEST → LEARN → IMPROVE
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" />
 
@@ -354,6 +362,12 @@ Conhecimento
 # `> ACHIEVEMENTS`
 
 <div align="center">
+## > DEV.PHILOSOPHY
+
+> "Eu transformo lógica em código e código em resultado."
+
+**BUILD • LEARN • IMPROVE • REPEAT**
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
