@@ -44,22 +44,16 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 CLAYTON: Eu transformo lógica em código e código em resultado. 💻🔥
 
-Olá! Eu sou **Clayton**, estudante de **Análise e Desenvolvimento de Sistemas**.
-
-Estou construindo minha trajetória na área de tecnologia, buscando transformar conhecimento em projetos reais e evoluir constantemente como desenvolvedor.
-
-Tenho interesse principalmente em:
-
-* 🧠 Desenvolvimento de Software
-* ⚙️ Back-End
-* 📊 Dados
-* 🐍 Python
-* 🟨 JavaScript / Node.js
-* 🗄️ PostgreSQL
-* 🌐 Desenvolvimento Web
-* 🔧 Solução de problemas
+*  Desenvolvimento de Software
+*  Back-End
+*  Dados
+*  Python
+*  JavaScript / Node.js
+*  PostgreSQL
+*  Desenvolvimento Web
+*  Solução de problemas
 
 Atualmente estou focado em fortalecer minha lógica de programação, desenvolver projetos e adquirir experiência profissional na área de TI.
 
@@ -416,7 +410,7 @@ Conhecimento
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-### ⚡ `CLAYTON // SYSTEM ONLINE`
+### ⚡ `CLAYTON ANDRADE JR // SYSTEM ONLINE`
 
 <sub>Built with curiosity, code and continuous learning.</sub>
 
