@@ -335,7 +335,7 @@ Conhecimento
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?suser=claytonandradejr574&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -352,8 +352,9 @@ MINDSET  : BUILDING
 MISSION  : SOLVE PROBLEMS
 PROCESS  : CODE → TEST → LEARN → IMPROVE
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" />
+´´´s
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=claytonandradejr574![Uploading image.png…]()
+=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
