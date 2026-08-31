@@ -177,6 +177,8 @@ Conhecimento
 │ PostgreSQL           │ ██████░░░░░░░░░░░░░                  │
 │ Git / GitHub         │ ███████░░░░░░░░░░░                  │
 └──────────────────────┴──────────────────────────────────────┘
+type=waving&color=0:0f0c27,55:302b63,100:00f5ff&height=220&section=header&text=CLAYTON%20SYSTEM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ANALYSIS%20%7C%20DEVELOPMENT%20%7C%20TECHNOLOGY&descAlignY=58&descSize=16"/>
+
 ```
 
 > 📡 Os níveis acima representam **familiaridade atual**, não certificações ou níveis profissionais.
