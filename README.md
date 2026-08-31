@@ -44,7 +44,7 @@
 <tr>
 <td width="55%" valign="top">
 
-###  CLAYTON: Eu transformo lógica em código e código em resultado. 
+###  Eu transformo lógica em código e código em resultado. 
 
 *  Desenvolvimento de Software
 *  Back-End
